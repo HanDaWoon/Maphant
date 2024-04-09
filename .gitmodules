@@ -1,0 +1,12 @@
+[submodule "maphant-app"]
+	path = maphant-app
+	url = https://github.com/HanDaWoon/maphant-app
+	branch = dev
+[submodule "maphant-backend"]
+	path = maphant-backend
+	url = https://github.com/HanDaWoon/maphant-backend
+	branch = master
+[submodule "maphant-web-next"]
+	path = maphant-web-next
+	url = https://github.com/HanDaWoon/maphant-web-next
+	branch = master
